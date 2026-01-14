@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**abhishekchouhan1521/abhishekchouhan1521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Software Developer | Python Learner | B.Tech Graduate (2023)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- I am a B.Tech graduate passionate about programming and technology.
+- Currently learning Python from scratch and building real projects.
+- Interested in software development and problem solving.
+- Actively preparing to become job-ready for tech roles.
+
+---
+
+## 🛠️ Skills
+
+- Python (Core programming, OOP, File Handling)
+- Data Structures (Lists, Tuples, Sets, Dictionaries)
+- Functions & Modules
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🔹 ATM Console Application
+A Python-based mini project demonstrating:
+- Classes and Objects
+- File handling for data storage
+- Exception handling
+- User input validation
+
+📌 Repository: python-learning-journey
+
+---
+
+## 📫 Contact
+
+- GitHub: []
+- LinkedIn: (www.linkedin.com/in/abhishekchouhan1521)
+
+---
+
+⭐ Always learning. Always improving.
